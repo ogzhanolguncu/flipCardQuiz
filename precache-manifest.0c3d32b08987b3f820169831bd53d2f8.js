@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7830362a315d2deced7ed4d280eff063",
+    "revision": "0896e2d3834281985e41728565d9b4fd",
     "url": "/flipCardQuiz/index.html"
   },
   {
-    "revision": "c449f4f3a9fe5bb493a9",
-    "url": "/flipCardQuiz/static/css/main.665880b2.chunk.css"
+    "revision": "31df5295796a831b9053",
+    "url": "/flipCardQuiz/static/css/main.c561cb58.chunk.css"
   },
   {
     "revision": "4f6f5b827f03ff519db9",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/flipCardQuiz/static/js/2.e0ad8e16.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c449f4f3a9fe5bb493a9",
-    "url": "/flipCardQuiz/static/js/main.8d735844.chunk.js"
+    "revision": "31df5295796a831b9053",
+    "url": "/flipCardQuiz/static/js/main.b9de0f12.chunk.js"
   },
   {
     "revision": "8829c6f92aa3c0a2fa98",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/flipCardQuiz/precache-manifest.3a596b4b67a7d52fde446f9ec11c1ee4.js"
+  "/flipCardQuiz/precache-manifest.0c3d32b08987b3f820169831bd53d2f8.js"
 );
 
 self.addEventListener('message', (event) => {
