@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/flipCardQuiz/static/css/main.665880b2.chunk.css",
+    "main.js": "/flipCardQuiz/static/js/main.8d735844.chunk.js",
+    "main.js.map": "/flipCardQuiz/static/js/main.8d735844.chunk.js.map",
+    "runtime-main.js": "/flipCardQuiz/static/js/runtime-main.27e77a15.js",
+    "runtime-main.js.map": "/flipCardQuiz/static/js/runtime-main.27e77a15.js.map",
+    "static/js/2.e0ad8e16.chunk.js": "/flipCardQuiz/static/js/2.e0ad8e16.chunk.js",
+    "static/js/2.e0ad8e16.chunk.js.map": "/flipCardQuiz/static/js/2.e0ad8e16.chunk.js.map",
+    "index.html": "/flipCardQuiz/index.html",
+    "precache-manifest.3a596b4b67a7d52fde446f9ec11c1ee4.js": "/flipCardQuiz/precache-manifest.3a596b4b67a7d52fde446f9ec11c1ee4.js",
+    "service-worker.js": "/flipCardQuiz/service-worker.js",
+    "static/css/main.665880b2.chunk.css.map": "/flipCardQuiz/static/css/main.665880b2.chunk.css.map",
+    "static/js/2.e0ad8e16.chunk.js.LICENSE.txt": "/flipCardQuiz/static/js/2.e0ad8e16.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27e77a15.js",
+    "static/js/2.e0ad8e16.chunk.js",
+    "static/css/main.665880b2.chunk.css",
+    "static/js/main.8d735844.chunk.js"
+  ]
+}
